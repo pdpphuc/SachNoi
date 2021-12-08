@@ -1,0 +1,7 @@
+file_path=
+read_mode=0
+page=0
+fromPage=0
+toPage=0
+rate=200
+gender=Male

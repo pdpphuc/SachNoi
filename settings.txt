@@ -1,0 +1,7 @@
+file_path=D:/Projects/Data/SachNoi/pdf/software_engineering_tutorial.pdf
+read_mode=1
+page=3
+fromPage=1
+toPage=2
+rate=250
+gender=Female

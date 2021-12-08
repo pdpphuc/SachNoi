@@ -1,0 +1,1 @@
+pyinstaller SachNoi_GUI.py --onefile -w --icon=audio-book-headphone.ico
